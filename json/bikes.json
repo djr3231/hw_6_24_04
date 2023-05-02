@@ -1,0 +1,122 @@
+[
+        {
+            "company": "Giant",
+            "model": "Trance",
+            "year": 2022,
+            "price": 3500
+        },
+        {
+            "company": "Trek",
+            "model": "Fuel EX",
+            "year": 2021,
+            "price": 4000
+        },
+        {
+            "company": "Specialized",
+            "model": "Stumpjumper",
+            "year": 2022,
+            "price": 5000
+        },
+        {
+            "company": "Cannondale",
+            "model": "Scalpel",
+            "year": 2023,
+            "price": 6000
+        },
+        {
+            "company": "Santa Cruz",
+            "model": "Nomad",
+            "year": 2021,
+            "price": 7000
+        },
+        {
+            "company": "Yeti",
+            "model": "SB150",
+            "year": 2022,
+            "price": 8000
+        },
+        {
+            "company": "Pivot",
+            "model": "Mach 6",
+            "year": 2023,
+            "price": 9000
+        },
+        {
+            "company": "Rocky Mountain",
+            "model": "Altitude",
+            "year": 2022,
+            "price": 5500
+        },
+        {
+            "company": "Ibis",
+            "model": "Ripmo",
+            "year": 2023,
+            "price": 7000
+        },
+        {
+            "company": "Transition",
+            "model": "Sentinel",
+            "year": 2021,
+            "price": 4800
+        },
+        {
+            "company": "Devinci",
+            "model": "Troy",
+            "year": 2022,
+            "price": 5500
+        },
+        {
+            "company": "Commencal",
+            "model": "Meta TR",
+            "year": 2023,
+            "price": 4200
+        },
+        {
+            "company": "Norco",
+            "model": "Range",
+            "year": 2021,
+            "price": 5800
+        },
+        {
+            "company": "GT",
+            "model": "Force",
+            "year": 2022,
+            "price": 4000
+        },
+        {
+            "company": "Kona",
+            "model": "Process",
+            "year": 2023,
+            "price": 4500
+        },
+        {
+            "company": "Mondraker",
+            "model": "Foxy",
+            "year": 2021,
+            "price": 6500
+        },
+        {
+            "company": "Nukeproof",
+            "model": "Mega",
+            "year": 2022,
+            "price": 5200
+        },
+        {
+            "company": "YT",
+            "model": "Capra",
+            "year": 2023,
+            "price": 5500
+        },
+        {
+            "company": "Banshee",
+            "model": "Phantom",
+            "year": 2021,
+            "price": 4200
+        },
+        {
+            "company": "Evil",
+            "model": "Wreckoning",
+            "year": 2022,
+            "price": 7000
+        }
+    ]
