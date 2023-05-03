@@ -6,7 +6,7 @@ const {routesInit} = require("./routes/configRoutes")
 require("./db/mongoConnect");
 
 const app = express();
-// מאפשר לשלוח באדי דרך הצד לקוח
+
 app.use(express.json());
 
 // להגדיר תיקייה סטטית שתיהיה התיקייה בשם פאבליק
